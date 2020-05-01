@@ -1,6 +1,8 @@
 # Model-based weighting
 This has the codes for the simulation and application of model-based weighting in the context of national surveys.
 
+An initial draft of MrP improvement tentative is also included. 
+
 
 # Installing required software
 
